@@ -1,0 +1,21 @@
+ 
+
+    .totop {
+        position: fixed;
+        top: 90%;
+	    right:10px;
+        text-align: center;
+        cursor: pointer;
+        display: none;
+        background: #000033;
+        color: #fff;
+        border-radius: 25px;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 20px;
+        font-size: 18px;
+    }
+    .totop:hover{
+        color: #E91818;
+    }
+	
